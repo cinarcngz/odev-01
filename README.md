@@ -68,4 +68,4 @@ Veritabanı, düzenli biçimde saklanan verinin kendisidir. DBMS ise bu veriyi o
 4- Eşzamanlı Değişiklik
 iki kişi aynı anda kaydı değiştirirse son yazanın değişikliği sessizce ezilir.
 
-Hocam ben bir şey bilmediğim için CLAUDE Aİ üzerinden yardım aldım ve attığınız şeyleri oraya attım elimden bu kadar geldi
+Bu ödevi Claude Aİ üzerinden yaptım. Pek fazla bilgim olmadığı için doğruda yapamadım yanlış yaptım hepsini ve doğrularını gördüm az çok teşekkürler.
